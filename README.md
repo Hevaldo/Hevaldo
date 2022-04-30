@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 	<center><h1>Hevaldo Araújo Lima</h1></center>
 <div align="center">
   <a href="https://github.com/hevaldo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hevaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevaldo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hevaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hevaldo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
