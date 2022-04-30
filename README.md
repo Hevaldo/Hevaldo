@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou  @Hevaldo
 - 👀 Estou interessado em estágio.
 - 🌱 Estou aprendendo HTML CSS JavaScript Python etc...
-- 💞️ Estou procurando colaborar com o desenvolvimento de tecnologias.
+- 💞️ Estou procurando contribuir com o desenvolvimento de tecnologia.
 - 📫 Como chegar até mim (62)98410-4827
 - E-mail: hevaldoal@outlook.com
 
