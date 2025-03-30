@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
    <li><h1>Escolaridade</h1></li>
    <ol>
    <p>• Colégio Estadual de Araguacema, Araguacema - TO • Médio Completo</p>
-   <p>• Universidade Estácio de Sá, Goiânia - GO • Graduação em Análise e Desenvolvimento de Sistemas. Esperado em 07/2023</p>
+   <p>• Universidade Estácio de Sá, Goiânia - GO • Graduação em Análise e Desenvolvimento de Sistemas.</p>
    </ol>
    <hr>
    <li>Coloco-me a inteira disposição para entrevistas , testes , bem como esclarecer quaisquer duvidas que por ventura possam existir . Tenho a disposição cópias de meus documentos pessoais . Na expectativa de corresponder aos requisitos solicitados por esta empresa , aguardo possível contato . Atenciosamente .</li>
